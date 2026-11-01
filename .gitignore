@@ -1,0 +1,8 @@
+# Godot 4+ default ignores
+.godot/
+/android/
+
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
